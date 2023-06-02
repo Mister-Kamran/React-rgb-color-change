@@ -20,9 +20,6 @@ function Test() {
 
     setCurrentColorIndex((currentColorIndex + 1));
 
-    console.log(currentColorIndex)
-
-
   if(currentColorIndex===2){
     setCurrentColorIndex(0);
   }
